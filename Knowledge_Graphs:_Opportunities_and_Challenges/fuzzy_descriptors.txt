@@ -1,0 +1,9 @@
+Zhou D, Zhou B, Zheng Z, et al (2022) Schere: Schema reshaping for enhancing knowledge graph construction. In: Proceedings of the 31st ACM International Conference on Information & Knowledge Management, pp 5074–5078
+
+Zhu A, Ouyang D, Liang S, et al (2022a) Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning. Knowledge-Based Systems 248:108,843
+
+Zhu G, Iglesias CA (2018) Exploiting semantic similarity for named entity disambiguation in knowledge graphs. Expert Systems with Applications 101:8–24
+
+Zhu X, Li Z, Wang X, et al (2022b) Multi-modal knowledge graph construction and application: A survey. arXiv preprint arXiv:220205786
+
+Zou X (2020) A survey on application of knowledge graph. Journal of Physics: Conference Series 1487:012,016

@@ -12,3 +12,4 @@ def get_title(url):
         return title_element.text.replace('Title:', '')
     else:
         return None
+
