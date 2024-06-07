@@ -1,0 +1,8 @@
+AgentGym: Evolving Large Language Model-based Agents across Diverse Environments
+
+Building generally-capable LLM-based agents with self-evolution ability
+AGENT GYM framework for agent exploration and learning
+AGENT EVOL method for investigating agent self-evolution
+Trajectory sets AGENT TRAJ and AGENT TRAJ-L
+Benchmark suite AGENT EVAL
+Interactive platform of multiple agent environments
